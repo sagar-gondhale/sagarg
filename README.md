@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar Gondhale
 - 👀 I’m interested in building scalable application
 - 🌱 I’m currently focusing on AWS and NodeJS
-- 💞️ I’m looking to collaborate on NodeJS, Jave and AWS projects
+- 💞️ I’m looking to collaborate on NodeJS, Java and AWS projects
 - 📫 How to reach me ...
 
 <!---
